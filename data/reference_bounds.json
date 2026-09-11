@@ -1,0 +1,185 @@
+{
+  "source_commit": "79f0edc1a2e95ed0e3cc105e79a6d03910a6d091",
+  "instances": [
+    {
+      "instance": "la01",
+      "size": "10 x 5",
+      "type": "jobshop",
+      "family": "la",
+      "family_long": "Lawrence 1984",
+      "status": "closed",
+      "lower_bound": 666,
+      "upper_bound": 666,
+      "lb_data": [
+        {
+          "value": 666,
+          "date": "2026-06-01",
+          "solver": "OptalCP",
+          "hardware": "Intel 11th Gen Core i7-1185G7",
+          "time": 1,
+          "certificate": "no"
+        }
+      ],
+      "ub_data": [
+        {
+          "value": 666,
+          "date": "2026-06-01",
+          "solver": "OptalCP",
+          "hardware": "Intel 11th Gen Core i7-1185G7",
+          "time": 1,
+          "certificate": "no"
+        }
+      ]
+    },
+    {
+      "instance": "la02",
+      "size": "10 x 5",
+      "type": "jobshop",
+      "family": "la",
+      "family_long": "Lawrence 1984",
+      "status": "closed",
+      "lower_bound": 655,
+      "upper_bound": 655,
+      "lb_data": [
+        {
+          "value": 655,
+          "date": "2026-06-01",
+          "solver": "OptalCP",
+          "hardware": "Intel 11th Gen Core i7-1185G7",
+          "time": 1,
+          "certificate": "no"
+        }
+      ],
+      "ub_data": [
+        {
+          "value": 655,
+          "date": "2026-06-01",
+          "solver": "OptalCP",
+          "hardware": "Intel 11th Gen Core i7-1185G7",
+          "time": 1,
+          "certificate": "no"
+        }
+      ]
+    },
+    {
+      "instance": "la16",
+      "size": "10 x 10",
+      "type": "jobshop",
+      "family": "la",
+      "family_long": "Lawrence 1984",
+      "status": "closed",
+      "lower_bound": 945,
+      "upper_bound": 945,
+      "lb_data": [
+        {
+          "value": 945,
+          "date": "2026-06-01",
+          "solver": "OptalCP",
+          "hardware": "Intel 11th Gen Core i7-1185G7",
+          "time": 1,
+          "certificate": "no"
+        }
+      ],
+      "ub_data": [
+        {
+          "value": 945,
+          "date": "2026-06-01",
+          "solver": "OptalCP",
+          "hardware": "Intel 11th Gen Core i7-1185G7",
+          "time": 1,
+          "certificate": "no"
+        }
+      ]
+    },
+    {
+      "instance": "la17",
+      "size": "10 x 10",
+      "type": "jobshop",
+      "family": "la",
+      "family_long": "Lawrence 1984",
+      "status": "closed",
+      "lower_bound": 784,
+      "upper_bound": 784,
+      "lb_data": [
+        {
+          "value": 784,
+          "date": "2026-06-01",
+          "solver": "OptalCP",
+          "hardware": "Intel 11th Gen Core i7-1185G7",
+          "time": 1,
+          "certificate": "no"
+        }
+      ],
+      "ub_data": [
+        {
+          "value": 784,
+          "date": "2026-06-01",
+          "solver": "OptalCP",
+          "hardware": "Intel 11th Gen Core i7-1185G7",
+          "time": 1,
+          "certificate": "no"
+        }
+      ]
+    },
+    {
+      "instance": "la31",
+      "size": "30 x 10",
+      "type": "jobshop",
+      "family": "la",
+      "family_long": "Lawrence 1984",
+      "status": "closed",
+      "lower_bound": 1784,
+      "upper_bound": 1784,
+      "lb_data": [
+        {
+          "value": 1784,
+          "date": "2026-06-01",
+          "solver": "OptalCP",
+          "hardware": "Intel 11th Gen Core i7-1185G7",
+          "time": 1,
+          "certificate": "no"
+        }
+      ],
+      "ub_data": [
+        {
+          "value": 1784,
+          "date": "2026-06-01",
+          "solver": "OptalCP",
+          "hardware": "Intel 11th Gen Core i7-1185G7",
+          "time": 1,
+          "certificate": "no"
+        }
+      ]
+    },
+    {
+      "instance": "la32",
+      "size": "30 x 10",
+      "type": "jobshop",
+      "family": "la",
+      "family_long": "Lawrence 1984",
+      "status": "closed",
+      "lower_bound": 1850,
+      "upper_bound": 1850,
+      "lb_data": [
+        {
+          "value": 1850,
+          "date": "2026-06-01",
+          "solver": "OptalCP",
+          "hardware": "Intel 11th Gen Core i7-1185G7",
+          "time": 1,
+          "certificate": "no"
+        }
+      ],
+      "ub_data": [
+        {
+          "value": 1850,
+          "date": "2026-06-01",
+          "solver": "OptalCP",
+          "hardware": "Intel 11th Gen Core i7-1185G7",
+          "time": 1,
+          "certificate": "no"
+        }
+      ]
+    }
+  ]
+}

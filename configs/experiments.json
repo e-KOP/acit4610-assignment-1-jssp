@@ -1,0 +1,16 @@
+{
+  "status": "planned_not_executed",
+  "instances": {
+    "small": ["la01", "la02"],
+    "medium": ["la16", "la17"],
+    "large": ["la31", "la32"]
+  },
+  "independent_runs": 30,
+  "seed_start": 0,
+  "decoder": "insertion",
+  "parameter_sets": [
+    {"name": "reference", "population_size": 50, "generations": 100, "crossover_probability": 0.8, "mutation_probability": 0.1},
+    {"name": "larger_population", "population_size": 100, "generations": 100, "crossover_probability": 0.8, "mutation_probability": 0.1},
+    {"name": "higher_mutation", "population_size": 50, "generations": 100, "crossover_probability": 0.8, "mutation_probability": 0.2}
+  ]
+}

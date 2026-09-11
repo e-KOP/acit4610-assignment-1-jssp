@@ -1,0 +1,1 @@
+# The current loader, decoder, tests, and SVG exporter use only Python's standard library.

@@ -1,7 +1,7 @@
 # ACIT4610 Assignment 1: Job Shop Scheduling with a GA
 
 A genetic algorithm (GA) schedules job operations to minimize **makespan**: the time
-when the last operation finishes. Group number: **add your Canvas group number**.
+when the last operation finishes. Group number: **Group-8**, Group members: **Zhongye Xue, Syed Mohammad Abdur-Rahman Tirmizey, Jakob Andreas Amtedal, Khoa Anh Huynh**.
 
 ## 1. How the next generation is created
 

@@ -7,4 +7,14 @@ __pycache__/
 .vscode/
 .DS_Store
 results/*
-!results/README.md
+!results/final/
+results/final/*
+!results/final/*.csv
+!results/final/*.png
+!results/final/manifest.json
+!results/final/la*/
+results/final/la*/*
+!results/final/la*/reference/
+!results/final/la*/smaller_population/
+!results/final/la*/lower_mutation/
+results/final/la*/*/runs/

@@ -1,1 +1,2 @@
-# The current loader, decoder, tests, and SVG exporter use only Python's standard library.
+# Used only for convergence and comparison figures.
+matplotlib>=3.6,<4

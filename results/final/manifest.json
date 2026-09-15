@@ -1,0 +1,50 @@
+{
+  "status": "complete",
+  "config": {
+    "instances": {
+      "small": [
+        "la01",
+        "la02"
+      ],
+      "medium": [
+        "la16",
+        "la17"
+      ],
+      "large": [
+        "la31",
+        "la32"
+      ]
+    },
+    "independent_runs": 30,
+    "seed_start": 0,
+    "decoder": "insertion",
+    "parameter_sets": [
+      {
+        "name": "reference",
+        "population_size": 50,
+        "generations": 150,
+        "crossover_probability": 0.8,
+        "mutation_probability": 0.1
+      },
+      {
+        "name": "smaller_population",
+        "population_size": 20,
+        "generations": 150,
+        "crossover_probability": 0.8,
+        "mutation_probability": 0.1
+      },
+      {
+        "name": "lower_mutation",
+        "population_size": 50,
+        "generations": 150,
+        "crossover_probability": 0.8,
+        "mutation_probability": 0.05
+      }
+    ],
+    "tournament_size": 2
+  },
+  "python": "3.12.3",
+  "platform": "Linux-7.0.0-31-generic-x86_64-with-glibc2.39",
+  "total_runs": 540,
+  "completed_runs": 540
+}
